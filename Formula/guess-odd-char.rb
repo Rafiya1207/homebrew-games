@@ -1,9 +1,9 @@
 class GuessOddChar < Formula
   desc "Terminal game for spotting the odd character"
   homepage "https://github.com/Rafiya1207/experiments/tree/main/games"
-  url "https://github.com/Rafiya1207/experiments/releases/download/guess-odd-char-v1.0.0/guess-odd-char-1.0.0.tar.gz"
-  version "1.0.0"
-  sha256 "19c94ebf1b9992dece31f26971855de065aef64556c84ad2e82ba57d3b942242"
+  url "https://github.com/Rafiya1207/experiments/releases/download/guess-odd-char-v1.0.1/guess-odd-char-1.0.1.tar.gz"
+  version "1.0.1"
+  sha256 "d3f86e1a9d057379bcbb928f7eed91aa41abfdad32a1d7081ca7a6617cafbcf5"
 
   depends_on "node"
 
